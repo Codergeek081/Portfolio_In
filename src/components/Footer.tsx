@@ -3,8 +3,9 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <p>Contact Information: email@example.com</p>
-      <p>Follow me on social media: [links]</p>
+      <img src="/assets/images/image.png" width="50" />
+      <img src="/assets/images/image.png" width="50" />
+      <img src="/assets/images/image.png" width="50" />
     </footer>
   );
 };
