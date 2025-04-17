@@ -19,7 +19,9 @@ const Contact = () => {
           <label htmlFor="message" className="form-label">Message:</label>
           <textarea className="form-control" id="message" name="message"  rows={4}></textarea>
         </div>
-        <button type="submit" className="btn tbn-light">Submit</button>
+        <div className="button-wrapper mt-2">
+          <button type="submit" className="btn tbn-light">Submit</button>
+        </div>
       </form>
     </div>
     </div>

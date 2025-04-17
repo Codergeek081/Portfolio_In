@@ -23,18 +23,7 @@ const Resume = () => {
           <li>MYSQL Sequilize</li>
           
         </ul>
-      <section>
-        <h2>Education</h2>
-        <p>Details about education...</p>
-      </section>
-      <section>
-        <h2>Experience</h2>
-        <p>Details about experience...</p>
-      </section>
-      <section>
-        <h2>Skills</h2>
-        <p>Details about skills...</p>
-      </section>
+      
     </div>
   );
 };

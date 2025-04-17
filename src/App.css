@@ -8,11 +8,17 @@ main {
   padding: 20px 70px 50px;
   color:white;
 }
+.button-wrapper {
+  background-color: #add8e6;
+  padding: 0.75rem;
+  border-radius:5px ;
+  display: inline-block
+}
 
 footer {
   padding: 10px;
   color: white;
-  border: 1px red dashed;
+  /* border: 1px red dashed; */
   display: flex;
   justify-content: center;
   gap: 20px;
